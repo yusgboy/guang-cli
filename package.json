@@ -1,25 +1,25 @@
 {
-  "name": "guang-cli",
+  "name": "saulgor-cli",
   "version": "0.1.0",
   "description": "一个玩具脚手架，还有许多功能未添加，用于学习大致脚手架流程",
   "main": "index.js",
   "bin": {
-    "guang": "./bin/index.js"
+    "saulgor": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "guang-cli",
-    "guang",
+    "saulgor-cli",
+    "saulgor",
     "saulgor"
   ],
   "author": "saulgor",
   "license": "MIT",
-  "homepage": "https://github.com/yusgboy/guang-cli",
+  "homepage": "https://github.com/yusgboy/saulgor-cli",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yusgboy/guang-cli"
+    "url": "https://github.com/yusgboy/saulgor-cli"
   },
   "devDependencies": {
     "eslint": "^8.56.0",
