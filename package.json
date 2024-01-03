@@ -1,0 +1,29 @@
+{
+  "name": "guang-cli",
+  "version": "0.1.0",
+  "description": "一个玩具脚手架，还有许多功能未添加，用于学习大致脚手架流程",
+  "main": "index.js",
+  "bin": {
+    "guang": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "yusg",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.2"
+  },
+  "dependencies": {
+    "clear-console": "^1.1.0",
+    "commander": "^11.1.0",
+    "git-clone": "^0.2.0",
+    "inquirer": "^8.2.6"
+  }
+}
