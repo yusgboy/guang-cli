@@ -10,10 +10,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "cli"
+    "guang-cli",
+    "guang",
+    "saulgor"
   ],
-  "author": "yusg",
+  "author": "saulgor",
   "license": "MIT",
+  "homepage": "https://github.com/yusgboy/guang-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yusgboy/guang-cli"
+  },
   "devDependencies": {
     "eslint": "^8.56.0",
     "eslint-config-airbnb-base": "^15.0.0",
